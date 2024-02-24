@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RGmvWE1DDoiSN3FSrD83ThXf/SYyZmexeGrAJ3nVCFk=",
+  "Source": "LogisticsTrackingApp.API",
+  "BasePath": "_content/LogisticsTrackingApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

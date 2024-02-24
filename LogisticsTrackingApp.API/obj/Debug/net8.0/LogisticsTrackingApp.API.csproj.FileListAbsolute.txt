@@ -1,0 +1,238 @@
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.AssemblyReference.cache
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.AssemblyInfoInputs.cache
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.AssemblyInfo.cs
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.CoreCompileInputs.cache
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\appsettings.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.exe
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.deps.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.runtimeconfig.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.pdb
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Humanizer.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Npgsql.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Core.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Data.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Service.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Service.pdb
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Core.pdb
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Data.pdb
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.LogisticsTrackingApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.LogisticsTrackingApp.API.props
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LogisticsTrackingApp.API.props
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LogisticsTrackingApp.API.props
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\scopedcss\bundle\LogisticsTrackingApp.API.styles.css
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.CopyComplete
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\refint\LogisticsTrackingApp.API.dll
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.pdb
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.genruntimeconfig.cache
+D:\Projelerim\LogisticsTracking\LogisticsTrackingApp.API\obj\Debug\net8.0\ref\LogisticsTrackingApp.API.dll
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.AssemblyReference.cache
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.AssemblyInfoInputs.cache
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.AssemblyInfo.cs
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.CoreCompileInputs.cache
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.sourcelink.json
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.dll
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\refint\LogisticsTrackingApp.API.dll
+C:\Users\omer\Desktop\6B Danışmanlık\RentalCars\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.pdb
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.AssemblyReference.cache
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.AssemblyInfoInputs.cache
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.AssemblyInfo.cs
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.CoreCompileInputs.cache
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.sourcelink.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\refint\LogisticsTrackingApp.API.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.pdb
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\appsettings.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.exe
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.deps.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.runtimeconfig.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.API.pdb
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Humanizer.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Npgsql.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\System.CodeDom.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Core.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Data.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Service.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Service.pdb
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Core.pdb
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Data.pdb
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.LogisticsTrackingApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.LogisticsTrackingApp.API.props
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LogisticsTrackingApp.API.props
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LogisticsTrackingApp.API.props
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\scopedcss\bundle\LogisticsTrackingApp.API.styles.css
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.csproj.CopyComplete
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\LogisticsTrackingApp.API.genruntimeconfig.cache
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\obj\Debug\net8.0\ref\LogisticsTrackingApp.API.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Autofac.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
