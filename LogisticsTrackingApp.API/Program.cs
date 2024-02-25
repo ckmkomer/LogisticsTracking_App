@@ -16,6 +16,10 @@ using LogisticsTrackingApp.Service.Services.Abstract;
 using LogisticsTrackingApp.Service.Services.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using LogisticsTrackingApp.Service.Logging;
+using Microsoft.EntityFrameworkCore.Storage;
+using LogisticsTrackingApp.Caching;
+using Microsoft.Extensions.DependencyInjection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,28 +45,18 @@ builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 builder.Services.AddScoped(typeof(NotFoundFilter<>));
 
-//builder.Services.AddScoped<IUnitOfWork , UnitOfWork>();
-//builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
-//builder.Services.AddScoped(typeof(IGenericService<>), typeof(GenericService<>));
+builder.Services.AddSingleton<RedisService>(sp =>
+{
+	return new RedisService(builder.Configuration["CacheOptions:url"]);
+});
+
+builder.Services.AddSingleton<StackExchange.Redis.IDatabase>(sp =>
+{
+	var redisService = sp.GetRequiredService<RedisService>();
+	return redisService.GetDatabase(0);
+});
 
 
-//builder.Services.AddScoped<ICustomerRepository,CustomerRepository>();
-//builder.Services.AddScoped<ICustomerService ,CustomerService>();
-
-//builder.Services.AddScoped<IAboutRepository,AboutRepository>();
-//builder.Services.AddScoped<IAboutService, AboutService>();
-//builder.Services.AddScoped<IAdressRepository, AdressRepository>();
-//builder.Services.AddScoped<IAdressService, AdressService>();
-//builder.Services.AddScoped<IContactRepository, ContactRepository>();
-//builder.Services.AddScoped<IContactService, ContactService>();
-//builder.Services.AddScoped<IContactUsRepository, ContactUsRepository>();
-//builder.Services.AddScoped<IContactUsService, ContactUsService>();
-//builder.Services.AddScoped<IReturnRepository, ReturnRepository>();
-//builder.Services.AddScoped<IReturnService, ReturnService>();
-//builder.Services.AddScoped<IShipmentRepository, ShipmentRepository>();
-//builder.Services.AddScoped<IShipmentService, ShipmentService>();
-//builder.Services.AddScoped<IStationRepository, StationRepository>();
-//builder.Services.AddScoped<IStationService, StationService>();
 
 builder.Host.UseServiceProviderFactory
 	(new AutofacServiceProviderFactory());
@@ -79,7 +73,10 @@ if (app.Environment.IsDevelopment())
 }
 
 
+
+
 app.UseHttpsRedirection();
+
 
 app.UseCustomException();
 

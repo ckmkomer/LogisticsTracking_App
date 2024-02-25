@@ -41,7 +41,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			var values = _mapper.Map<CreateReturnDto, Return>(createReturn);
 			await _returnService.InsertAsync(values);
-			return Ok("Başarılı şekilde eklendi");
+			return Ok();
 		}
 
 		[HttpPut]
@@ -49,7 +49,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			await _returnService.UpdateAsync(_mapper.Map<Return>(updateReturn));
 
-			return Ok("Başarılı şekilde güncellendi");
+			return Ok();
 		}
 
 		[HttpDelete("{id}")]
@@ -57,7 +57,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			var values = await _returnService.GetIdAsync(id);
 			await _returnService.DeleteAsync(values);
-			return Ok("Başarılı şekilde silindi");
+			return Ok();
 
 
 		}

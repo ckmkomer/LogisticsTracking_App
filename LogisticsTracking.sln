@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsTrackingApp.Core", "LogisticsTrackingApp.Core\LogisticsTrackingApp.Core.csproj", "{078BEFA7-54A3-489E-8576-5EF0F6FB9E52}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticsTrackingApp.Core", "LogisticsTrackingApp.Core\LogisticsTrackingApp.Core.csproj", "{078BEFA7-54A3-489E-8576-5EF0F6FB9E52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsTrackingApp.Data", "LogisticsTrackingApp.Data\LogisticsTrackingApp.Data.csproj", "{6B366572-10F9-4E73-A340-2135CA46118E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticsTrackingApp.Data", "LogisticsTrackingApp.Data\LogisticsTrackingApp.Data.csproj", "{6B366572-10F9-4E73-A340-2135CA46118E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsTrackingApp.Service", "LogisticsTrackingApp.Service\LogisticsTrackingApp.Service.csproj", "{0C8C1329-7235-487D-A390-B416EAD7E64F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticsTrackingApp.Service", "LogisticsTrackingApp.Service\LogisticsTrackingApp.Service.csproj", "{0C8C1329-7235-487D-A390-B416EAD7E64F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsTrackingApp.API", "LogisticsTrackingApp.API\LogisticsTrackingApp.API.csproj", "{1DBE0898-FBF3-446C-B650-256F55FA8AE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogisticsTrackingApp.API", "LogisticsTrackingApp.API\LogisticsTrackingApp.API.csproj", "{1DBE0898-FBF3-446C-B650-256F55FA8AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticsTrackingApp.Caching", "LogisticsTrackingApp.Caching\LogisticsTrackingApp.Caching.csproj", "{A8534856-D9A3-4562-9109-BDEDDD9B2CEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1DBE0898-FBF3-446C-B650-256F55FA8AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DBE0898-FBF3-446C-B650-256F55FA8AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DBE0898-FBF3-446C-B650-256F55FA8AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8534856-D9A3-4562-9109-BDEDDD9B2CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8534856-D9A3-4562-9109-BDEDDD9B2CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8534856-D9A3-4562-9109-BDEDDD9B2CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8534856-D9A3-4562-9109-BDEDDD9B2CEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

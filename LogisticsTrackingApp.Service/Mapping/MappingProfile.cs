@@ -5,9 +5,13 @@ using LogisticsTrackingApp.Core.Dtos.AdressDtos;
 using LogisticsTrackingApp.Core.Dtos.ContactDtos;
 using LogisticsTrackingApp.Core.Dtos.ContactUsDtos;
 using LogisticsTrackingApp.Core.Dtos.CustomerDtos;
+using LogisticsTrackingApp.Core.Dtos.OrderDtos;
+using LogisticsTrackingApp.Core.Dtos.OrderItemDtos;
 using LogisticsTrackingApp.Core.Dtos.ReturnDtos;
 using LogisticsTrackingApp.Core.Dtos.ShipmentDtos;
+using LogisticsTrackingApp.Core.Dtos.ShipmentStatus;
 using LogisticsTrackingApp.Core.Dtos.StationDtos;
+using LogisticsTrackingApp.Core.Dtos.VehicleDtos;
 using LogisticsTrackingApp.Core.Models;
 using System;
 using System.Collections.Generic;
@@ -55,10 +59,22 @@ namespace LogisticsTrackingApp.Service.Mapping
 			CreateMap<Station, UpdateStationDto>().ReverseMap();
 			CreateMap<Station, ResultStationDto>().ReverseMap();
 
+			CreateMap<ShipmentStatus, CreateShipmentStatusDto>().ReverseMap();
+			CreateMap<ShipmentStatus, UpdateShipmentStatusDto>().ReverseMap();
+			CreateMap<ShipmentStatus, CreateShipmentStatusDto>().ReverseMap();
 
 
+			CreateMap<Order, CreateOrderDto>().ReverseMap();
+			CreateMap<Order, UpdateOrderDto>().ReverseMap();
+			CreateMap<Order, ResultOrderDto>().ReverseMap();
 
+			CreateMap<OrderItem, CreateOrderItemDto>().ReverseMap();
+			CreateMap<OrderItem, UpdateOrderItemDto>().ReverseMap();
+			CreateMap<OrderItem, ResultOrderItemDto>().ReverseMap();
 
+			CreateMap<Vehicle, CreateVehicleDto>().ReverseMap();
+			CreateMap<Vehicle, UpdateVehicleDto>().ReverseMap();
+			CreateMap<Vehicle, ResultVehicleDto>().ReverseMap();
 
 
 		}

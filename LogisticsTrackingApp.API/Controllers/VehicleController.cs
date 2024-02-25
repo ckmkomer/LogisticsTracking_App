@@ -43,14 +43,14 @@ namespace LogisticsTrackingApp.API.Controllers
 
 			await _vehicleService.AddVehicleAsync(createVehicle);
 
-			return Ok("Başarılı şekilde eklendi");
+			return Ok();
 		}
 
 		[HttpPut("{id}")]
 		public async Task<IActionResult> Update(int id, UpdateVehicleDto updatedVehicle)
 		{
 			await _vehicleService.UpdateVehicleAsync(id, updatedVehicle);
-			return Ok("Başarılı şekilde güncellendi");
+			return Ok();
 		}
 
 

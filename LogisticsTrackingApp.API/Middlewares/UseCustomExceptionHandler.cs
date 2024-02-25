@@ -3,11 +3,13 @@ using LogisticsTrackingApp.Service.Exceptions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
+using Serilog;
+using System;
 using System.Text.Json;
 
 namespace LogisticsTrackingApp.API.Middlewares
 {
-	public static class UseCustomExceptionHandler 
+	public static class UseCustomExceptionHandler
 	{
 		public static void UseCustomException(this IApplicationBuilder app)
 		{
@@ -21,18 +23,17 @@ namespace LogisticsTrackingApp.API.Middlewares
 					var statusCode = exceptionFeature.Error switch
 					{
 						ClientSideException => 400,
-						NotFoundExcepiton =>404,
+						NotFoundExcepiton => 404,
 						_ => 500
 					};
 					context.Response.StatusCode = statusCode;
 
+					//serilog
+					Log.Logger.Error(exceptionFeature.Error, "Unhandled exception occurred.");
 
-					var reesponse = CustomResponseDto<NoContentDto>.Fail(statusCode, exceptionFeature.Error.Message);
+					var response = CustomResponseDto<NoContentDto>.Fail(statusCode, exceptionFeature.Error.Message);
 
-					await context.Response.WriteAsync(JsonSerializer.Serialize(reesponse));
-
-
-
+					await context.Response.WriteAsync(JsonSerializer.Serialize(response));
 				});
 			});
 		}

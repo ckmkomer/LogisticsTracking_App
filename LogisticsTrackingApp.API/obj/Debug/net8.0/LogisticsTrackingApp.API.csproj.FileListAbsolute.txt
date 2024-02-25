@@ -236,3 +236,12 @@ D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.
 D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Autofac.dll
 D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Serilog.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Caching.dll
+D:\Bitirme Projesi\LogisticsTrackingApp\LogisticsTrackingApp.API\bin\Debug\net8.0\LogisticsTrackingApp.Caching.pdb

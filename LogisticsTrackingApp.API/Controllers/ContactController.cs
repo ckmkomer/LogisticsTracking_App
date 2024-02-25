@@ -42,7 +42,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			var values = _mapper.Map<CreateContactDto, Contact>(createContact);
 			await _contactService.InsertAsync(values);
-			return Ok("Başarılı şekilde eklendi");
+			return Ok();
 		}
 
 		[HttpPut]
@@ -50,7 +50,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			await _contactService.UpdateAsync(_mapper.Map<Contact>(updateContact));
 
-			return Ok("Başarılı şekilde güncellendi");
+			return Ok();
 		}
 
 		[HttpDelete("{id}")]
@@ -58,7 +58,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			var contact = await _contactService.GetIdAsync(id);
 			await _contactService.DeleteAsync(contact);
-			return Ok("Başarılı şekilde silindi");
+			return Ok();
 
 
 		}

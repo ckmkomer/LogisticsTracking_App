@@ -6,6 +6,8 @@ using LogisticsTrackingApp.Data.Repositories;
 using LogisticsTrackingApp.Data.UnitOfWork;
 using LogisticsTrackingApp.Service.Mapping;
 using LogisticsTrackingApp.Service.Services;
+using LogisticsTrackingApp.Service.Services.Abstract;
+using LogisticsTrackingApp.Service.Services.Concrete;
 using System.Reflection;
 using Module = Autofac.Module;
 
@@ -30,6 +32,10 @@ namespace LogisticsTrackingApp.API.Modules
 			builder.RegisterAssemblyTypes(apiAssembly, dataAssembly, serviceAssembly).Where(x => x.Name.EndsWith("Repository")).AsImplementedInterfaces().InstancePerLifetimeScope();
 
 			builder.RegisterAssemblyTypes(apiAssembly, dataAssembly, serviceAssembly).Where(x => x.Name.EndsWith("Service")).AsImplementedInterfaces().InstancePerLifetimeScope();
+
+			builder.RegisterType<CustomerServiceWithNoCaching>().As<ICustomerService>();
+
+
 		}
 	}
 }

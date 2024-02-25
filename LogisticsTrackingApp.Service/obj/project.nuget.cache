@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rEQc9o5v06z/9mhoTW4vYmIfc4SQiWjEzAy3z4U5LoQ+tcu5MlM4USLuSC6FhkvkagLtU2JZcW2upeWCJ4YZxQ==",
+  "dgSpecHash": "O5Mbsy8Ax3aRIGw/+aFTn8QtfmZ/ojERODP03PakSRHui5aYXPUiAmApeo1c1/NE64X5QpeGxXcwiKrRsk5hyA==",
   "success": true,
   "projectFilePath": "D:\\Bitirme Projesi\\LogisticsTrackingApp\\LogisticsTrackingApp.Service\\LogisticsTrackingApp.Service.csproj",
   "expectedPackageFiles": [
@@ -34,8 +34,11 @@
     "C:\\Users\\omer\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\npgsql\\8.0.0\\npgsql.8.0.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.0\\npgsql.entityframeworkcore.postgresql.8.0.0.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\serilog\\3.1.1\\serilog.3.1.1.nupkg.sha512",
+    "C:\\Users\\omer\\.nuget\\packages\\serilog.sinks.file\\5.0.0\\serilog.sinks.file.5.0.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\omer\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",

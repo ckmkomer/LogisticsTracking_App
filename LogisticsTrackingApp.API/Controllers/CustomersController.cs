@@ -46,7 +46,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			var values =  _mapper.Map<CreateCustomerDto, Customer>(createCustomer);
 		     await _customerService.InsertAsync(values);
-			 return Ok("Başarılı şekilde eklendi");
+			 return Ok();
 
 		}
 
@@ -55,7 +55,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			await _customerService.UpdateAsync(_mapper.Map<Customer>(updateCustomer));
 
-			return Ok("Başarılı şekilde güncellendi");
+			return Ok();
 		}
 
 		[HttpDelete("{id}")]
@@ -63,7 +63,7 @@ namespace LogisticsTrackingApp.API.Controllers
 		{
 			var customer = await _customerService.GetIdAsync(id);
 			await _customerService.DeleteAsync(customer);
-			return Ok("Başarılı şekilde silindi");
+			return Ok();
 
 
 		}
